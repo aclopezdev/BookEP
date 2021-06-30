@@ -1,3 +1,18 @@
+Back folder (port 4000)
+
+npm modules:
+MD5
+Express
+MongoDB
+
+Run the node server:
+### `node app_serve.js`
+
+Front folder (port 3000)
+
+npm modules:
+Reactjs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
